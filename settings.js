@@ -1,7 +1,7 @@
 //-------------------[ BOT SETTINGS ]------------------// 
 
 // @project_name : || DEPUTY SHERIF
-// @author : Hector 
+// @author : @SHERIF
 // @telegram : http://t.me/official_kango
 // @github : OfficialKango
 // @whatsapp : +254778691255
