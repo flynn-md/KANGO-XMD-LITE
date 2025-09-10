@@ -1,5 +1,5 @@
 {
-  "name": "KANGO-XMD",
+  "name": "|| DEPUTY SHERIF",
   "version": "2.4.5",
   "description": "KANGO, the best WhatsApp Bot",
   "logo": "https://i.imgur.com/1DkLGVk.jpeg",
@@ -17,11 +17,11 @@
     },
     "BOT_NAME": {
       "description": "Enter your bot name here",
-      "value": "Kango-Bot",
+      "value": "|| DEPUTY SHERIF",
       "required": false
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
+      "description": "Enter your number here, starting with country code E.g 254778691255",
       "value": "",
       "required": true
     },
